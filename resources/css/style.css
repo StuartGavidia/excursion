@@ -22,3 +22,26 @@ a {
 .title {
     font-size: 50px;
 }
+
+.content {
+    text-align: center;
+}
+
+.content-text {
+    font-weight: 300;
+    font-size: 42px;
+}
+
+.content-text {
+    font-size: 21px;
+    color: gray;
+}
+
+.bottom {
+    text-align: center;
+}
+
+.footer {
+    text-align: right;
+    color: gray;
+}
